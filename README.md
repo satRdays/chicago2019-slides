@@ -1,7 +1,7 @@
 # chicago2019-slides
-Speaker slides and materials for SatRday Chicago 2019
+Speaker slides and materials for SatRday Chicago 2019. You can find the schedule of the day on [our website](https://chicago2019.satrdays.org).
 
-Find our livestreamed talks on [YouTube](https://www.youtube.com/watch?v=quFhQvizBE8) (around half of all talks, includes keynotes)!
+Find our livestreamed talks on the SatRdays [YouTube](https://www.youtube.com/watch?v=quFhQvizBE8) (around half of all talks, includes keynotes)!
 
 ## Materials for talks
 
