@@ -12,7 +12,7 @@ More materials will be posted as they are available. Submit a pull request with 
 - James Lamb: [People Shape Software](https://github.com/jayqi/satRday-roxygen-talk)
 - James Lamb: [You Can Do Open Source!](https://github.com/jameslamb/talks/tree/master/you-can-do-open-source)
 - Jay Qi: [Level Up Your Package's Roxygen Documentation](https://github.com/jayqi/satRday-roxygen-talk)
-- Bill Seliger: [LP, IP, and MIP Optimization in R]](https://github.com/BillSeliger/SatRdayOptimization)
+- Bill Seliger: [LP, IP, and MIP Optimization in R](https://github.com/BillSeliger/SatRdayOptimization)
 - Angela Li: [Teaching Reproducible Spatial Analysis in R](https://docs.google.com/presentation/d/14HtS-1c3A0GBIVvfrYkOrARwlJIqo2rkOAb2Du81eTw/edit)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
