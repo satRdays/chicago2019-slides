@@ -9,7 +9,7 @@ More materials will be posted as they are available. Submit a pull request with 
 
 - JD Long: [Models, Mistakes, and Mayhem](https://docs.google.com/presentation/d/1ywSgScfiCVuNPJo-7hzd4assvvUXIbbN6Dq_QC8cK0Q/edit)
 - Adam Lyon: [Making C++ Run Better with R](https://github.com/lyon-fnal/analyzeGPerfTools/blob/master/Lyon_making_cpp_better_sm.pdf)
-- James Lamb: [People Shape Software](https://github.com/jayqi/satRday-roxygen-talk)
+- James Lamb: [People Shape Software](https://github.com/jameslamb/talks/tree/master/people-shape-software)
 - James Lamb: [You Can Do Open Source!](https://github.com/jameslamb/talks/tree/master/you-can-do-open-source)
 - Jay Qi: [Level Up Your Package's Roxygen Documentation](https://github.com/jayqi/satRday-roxygen-talk)
 - Bill Seliger: [LP, IP, and MIP Optimization in R](https://github.com/BillSeliger/SatRdayOptimization)
