@@ -40,3 +40,4 @@ More materials will be posted as they are available. Submit a pull request with 
 ### Session 4: Data Wrangling, Visualization, and Applications (Lightning Talk Round!)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
+- Sushmita V Gopalan: [Machine Learning with Class Imbalance](https://github.com/sushmitavgopalan16/talks/blob/master/satRdays%20(2).pptx)
