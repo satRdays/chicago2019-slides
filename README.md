@@ -7,12 +7,36 @@ Find our livestreamed talks on the SatRdays [YouTube](https://www.youtube.com/wa
 
 More materials will be posted as they are available. Submit a pull request with your materials if you so wish!
 
+### Keynotes
+- Stephanie Kirmer: [What Data Science Can Learn From Sociology](https://github.com/skirmer/satRdays_chicago_2019)
 - JD Long: [Models, Mistakes, and Mayhem](https://docs.google.com/presentation/d/1ywSgScfiCVuNPJo-7hzd4assvvUXIbbN6Dq_QC8cK0Q/edit)
+
+### Session 1: Academic/Civic Appplications
+- Chase Clark: [Bioinformatics in R, The Quick and Easy...and the Not So Quick and Easy](https://github.com/chasemc/presentations/tree/master/Chicago_SatRDays)
+- [Irene Farah](https://github.com/ifarah): Spatial Point Pattern Analysis of Retail Businesses
+
+### Session 1: Industry Applications
+- Peter Cooman: [Correcting Bias in Customer Acquisition Models](https://docs.google.com/presentation/d/1CoRP7F4rMGd5j7D56_kvQdZYyG0MUueV-_sKRCbuT8c)
+
+### Session 2: Reproducibility and Workflow Enhancement
 - Adam Lyon: [Making C++ Run Better with R](https://github.com/lyon-fnal/analyzeGPerfTools/blob/master/Lyon_making_cpp_better_sm.pdf)
+
+### Session 2: Building Data Tools (Lightning Talk Round!)
+- David Thomas and Aaron Hawn: Shiny Apps for Non-R Users
+- Anh Tran: Writing a (very niche) R package for reproducible data analysis from a public dataset
 - James Lamb: [People Shape Software](https://github.com/jameslamb/talks/tree/master/people-shape-software)
-- James Lamb: [You Can Do Open Source!](https://github.com/jameslamb/talks/tree/master/you-can-do-open-source)
 - Jay Qi: [Level Up Your Package's Roxygen Documentation](https://github.com/jayqi/satRday-roxygen-talk)
+
+### Session 3: Statistical Methods 
 - Bill Seliger: [LP, IP, and MIP Optimization in R](https://github.com/BillSeliger/SatRdayOptimization)
+- Sushmita Gopalan: Machine Learning with Class Imbalance
+
+### Session 3: Community Building
+- James Lamb: [You Can Do Open Source!](https://github.com/jameslamb/talks/tree/master/you-can-do-open-source)
 - Angela Li: [Teaching Reproducible Spatial Analysis in R](https://docs.google.com/presentation/d/14HtS-1c3A0GBIVvfrYkOrARwlJIqo2rkOAb2Du81eTw/edit)
+
+### Session 4: Infrastructure
+
+### Session 4: Data Wrangling, Visualization, and Applications (Lightning Talk Round!)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
