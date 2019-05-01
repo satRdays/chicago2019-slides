@@ -16,4 +16,4 @@ More materials will be posted as they are available. Submit a pull request with 
 - Angela Li: [Teaching Reproducible Spatial Analysis in R](https://docs.google.com/presentation/d/14HtS-1c3A0GBIVvfrYkOrARwlJIqo2rkOAb2Du81eTw/edit)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
-- Sushmita V Gopalan: [Machine Learning with Class Imbalance](https://github.com/sushmitavgopalan16/talks/blob/master/satRdays%20(1).pdf)
+- Sushmita V Gopalan: [Machine Learning with Class Imbalance](https://github.com/sushmitavgopalan16/talks/blob/master/satRdays%20(2).pptx)
