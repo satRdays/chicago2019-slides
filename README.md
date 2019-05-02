@@ -19,11 +19,13 @@ More materials will be posted as they are available. Submit a pull request with 
 - Peter Cooman: [Correcting Bias in Customer Acquisition Models](https://docs.google.com/presentation/d/1CoRP7F4rMGd5j7D56_kvQdZYyG0MUueV-_sKRCbuT8c)
 
 ### Session 2: Reproducibility and Workflow Enhancement
+- Patrick Miller: [No More "Works for Me": Why, When, and How to Use Docker with R](02_patrick-miller-r-docker.pdf)
 - Adam Lyon: [Making C++ Run Better with R](https://github.com/lyon-fnal/analyzeGPerfTools/blob/master/Lyon_making_cpp_better_sm.pdf)
 
 ### Session 2: Building Data Tools (Lightning Talk Round!)
 - David Thomas and Aaron Hawn: [Shiny Apps for Non-R Users](https://github.com/satRdays/chicago2019-slides/blob/master/02_Thomas_Hawn_Assessment_Analyzer_R.pdf)
 - Anh Tran: [Writing a (very niche) R package for reproducible data analysis from a public dataset](https://github.com/satRdays/chicago2019-slides/blob/master/02_Tran_Writing_R_package_for_a_niche_EDA.pdf)
+- Ray Buhr: [Microservices in R](https://raybuhr.github.io/talks/microservices-in-r-lt/microservices-in-r-lt.html)
 - James Lamb: [People Shape Software](https://github.com/jameslamb/talks/tree/master/people-shape-software)
 - Jay Qi: [Level Up Your Package's Roxygen Documentation](https://github.com/jayqi/satRday-roxygen-talk)
 
@@ -36,7 +38,10 @@ More materials will be posted as they are available. Submit a pull request with 
 - Angela Li: [Teaching Reproducible Spatial Analysis in R](https://docs.google.com/presentation/d/14HtS-1c3A0GBIVvfrYkOrARwlJIqo2rkOAb2Du81eTw/edit)
 
 ### Session 4: Infrastructure
+- Alexandra Mangold: [Connecting teams and systems with R](04_Mangold_Connecting_teams_and_systems_with_R.pdf)
 
 ### Session 4: Data Wrangling, Visualization, and Applications (Lightning Talk Round!)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
+- Jorge Argueta: [Web Scraping, Sentiment Analysis, and Clustering](04_Jorge_Argueta_web_scraping_sentiment_analysis_clustering.pdf)
+- Kate Webbink: [Misadventures in Biodiversity Data](04_Webbink_MisadventuresBiodiversityData.pdf)
