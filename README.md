@@ -39,6 +39,7 @@ More materials will be posted as they are available. Submit a pull request with 
 
 ### Session 4: Infrastructure
 - Alexandra Mangold: [Connecting teams and systems with R](04_Mangold_Connecting_teams_and_systems_with_R.pdf)
+- Parfait Gasana: [Leveraging Relational Databases in R](https://raw.githack.com/ParfaitG/WORKSHOPS/master/SatRday/Leverage_Databases_in_R.html)
 
 ### Session 4: Data Wrangling, Visualization, and Applications (Lightning Talk Round!)
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
