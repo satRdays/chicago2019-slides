@@ -34,6 +34,7 @@ More materials will be posted as they are available. Submit a pull request with 
 ### Session 3: Statistical Methods 
 - Bill Seliger: [LP, IP, and MIP Optimization in R](https://github.com/BillSeliger/SatRdayOptimization)
 - Sushmita V Gopalan: [Machine Learning with Class Imbalance](https://github.com/sushmitavgopalan16/talks/blob/master/satRdays%20(2).pptx)
+- Justin M. Shea: [Try BLIS: A Framework for Rapidly Instantiating BLAS Functionality ](https://github.com/JustinMShea/Try-BLIS)
 
 ### Session 3: Community Building *(recorded)*
 - James Lamb: [You Can Do Open Source!](https://github.com/jameslamb/talks/tree/master/you-can-do-open-source)
