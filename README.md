@@ -19,6 +19,8 @@ More materials will be posted as they are available. Submit a pull request with 
 ### Session 1: Industry Applications *(recorded)*
 - Peter Cooman: [Correcting Bias in Customer Acquisition Models](https://docs.google.com/presentation/d/1CoRP7F4rMGd5j7D56_kvQdZYyG0MUueV-_sKRCbuT8c)
 - Adam Austin: [An Analytic Culture Starter Kit](01_analytic-culture-starter-kit-allstate-sharing.pdf)
+- Annie Wang: [A 5-minute tour of mortality rates](01_Wang_mortality_rates.pdf)
+- Brett Kobold: [Creating Fuller Maps With R: Filling in the Missing Values](https://docs.google.com/presentation/d/1sgU6zZbgo3XNFuEAmfKexbsXOvJ_WM1HQl8wORBindI/)
 
 ### Session 2: Reproducibility and Workflow Enhancement
 - Patrick Miller: [No More "Works for Me": Why, When, and How to Use Docker with R](02_patrick-miller-r-docker.pdf)
@@ -26,6 +28,7 @@ More materials will be posted as they are available. Submit a pull request with 
 
 ### Session 2: Building Data Tools (Lightning Talk Round!) *(recorded)*
 - David Thomas and Aaron Hawn: [Shiny Apps for Non-R Users](https://github.com/satRdays/chicago2019-slides/blob/master/02_Thomas_Hawn_Assessment_Analyzer_R.pdf)
+- Jane Berkowitz: [If you can write code, you can build a package!](02_Berkowitz_build_a_package.pdf)
 - Anh Tran: [Writing a (very niche) R package for reproducible data analysis from a public dataset](https://github.com/satRdays/chicago2019-slides/blob/master/02_Tran_Writing_R_package_for_a_niche_EDA.pdf)
 - Ray Buhr: [Microservices in R](https://raybuhr.github.io/talks/microservices-in-r-lt/microservices-in-r-lt.html)
 - James Lamb: [People Shape Software](https://github.com/jameslamb/talks/tree/master/people-shape-software)
@@ -49,4 +52,5 @@ More materials will be posted as they are available. Submit a pull request with 
 - Will Bonnell: [Visualizing Uncertainty in R](https://willdebras.github.io/sartrday2019/)
 - TJ Mahr: [bayesplot: Diagnostic Plots for Bayes Models](https://www.tjmahr.com/bayesplot-satrdays-2019)
 - Jorge Argueta: [Web Scraping, Sentiment Analysis, and Clustering](04_Jorge_Argueta_web_scraping_sentiment_analysis_clustering.pdf)
+- Kristen Van Tine: [Psychometrics with the Psych Package](04_Van_Tine_psychometrics.pdf)
 - Kate Webbink: [Misadventures in Biodiversity Data](04_Webbink_MisadventuresBiodiversityData.pdf)
