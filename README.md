@@ -23,6 +23,7 @@ More materials will be posted as they are available. Submit a pull request with 
 - Brett Kobold: [Creating Fuller Maps With R: Filling in the Missing Values](https://docs.google.com/presentation/d/1sgU6zZbgo3XNFuEAmfKexbsXOvJ_WM1HQl8wORBindI/)
 
 ### Session 2: Reproducibility and Workflow Enhancement
+- Brian Burns: [Recursive Package Dependencies: Unraveling a Tangled Web](02_Burns_Recursive_Package_Dependencies.pdf)
 - Patrick Miller: [No More "Works for Me": Why, When, and How to Use Docker with R](02_patrick-miller-r-docker.pdf)
 - Adam Lyon: [Making C++ Run Better with R](https://github.com/lyon-fnal/analyzeGPerfTools/blob/master/Lyon_making_cpp_better_sm.pdf)
 
